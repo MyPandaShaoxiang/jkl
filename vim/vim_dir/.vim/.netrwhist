@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/work/clinfo'
+let g:netrw_dirhist_2='/home/work/test/test_cl/MetaAI/cmake'
+let g:netrw_dirhist_3='/home/work/test/test_cl/MetaAI/cmake/providers'
+let g:netrw_dirhist_4='/home/work/ncnn/cmake'
+let g:netrw_dirhist_5='/home/work'
+let g:netrw_dirhist_6='/home/work/test/test_cl/MetaAI/mai/providers/ocl/kernels/cl'
+let g:netrw_dirhist_7='/home/work/plir_11_24/plir/custom_cutlass/src'
